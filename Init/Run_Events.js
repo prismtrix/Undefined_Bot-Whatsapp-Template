@@ -2,6 +2,7 @@ const client = require("../index");
 console.log('Eventos Carregados')
 
 const events = client.events
+
 let Ready = [];
 let Message = [];
 let MessageCreate = [];
